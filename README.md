@@ -1,6 +1,6 @@
-<H3>Name: P Balasudhan </H3>
-<H3>Register no: 212222240017</H3>
-<H3>Date: 27.09.2024</H3>
+## Name: P Balasudhan 
+## Register no: 212222240017
+## Date: 27.09.2024
 
 # Ex 02 - Implementation of Perceptron for Binary Classification
 
